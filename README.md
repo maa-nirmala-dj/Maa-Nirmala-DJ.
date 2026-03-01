@@ -1812,110 +1812,367 @@
                 </a>
             </div>
 
-            <div class="section-label" style="margin-top:40px;"><i class="fas fa-music"></i> THE MAA NIRMALA EXPERIENCE</div>
-            <div style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 20px; padding: 20px; text-align: center; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
-                <img src="https://i.postimg.cc/Y0jPr7Vy/20251205-103059-IMG-STYLE.jpg" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; border: 2px solid var(--gold-primary); margin-bottom: 15px;" alt="Experience">
-                <h3 style="color: var(--gold-primary); font-family: 'Cinzel'; margin-bottom: 10px; font-size: 20px;">Unmatched Sound & Vibes</h3>
-                <p style="font-size: 14px; line-height: 1.6; color: #ddd;">Maa Nirmala DJ sets the standard for high-energy celebrations in Banka. With state-of-the-art audio, dazzling light shows, and premium VIP tents, we guarantee a flawless event. From intimate functions to massive district festivals, our team works tirelessly to bring your dream event to reality.</p>
-            </div>
-            <div class="section-label" style="margin-top:40px;"><i class="fas fa-music"></i> THE MAA NIRMALA EXPERIENCE</div>
-            <div style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 20px; padding: 20px; text-align: center; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
-                <img src="https://i.postimg.cc/Y0jPr7Vy/20251205-103059-IMG-STYLE.jpg" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; border: 2px solid var(--gold-primary); margin-bottom: 15px;" alt="Experience">
-                <h3 style="color: var(--gold-primary); font-family: 'Cinzel'; margin-bottom: 10px; font-size: 20px;">Unmatched Sound & Vibes</h3>
-                <p style="font-size: 14px; line-height: 1.6; color: #ddd;">Maa Nirmala DJ sets the standard for high-energy celebrations in Banka. With state-of-the-art audio, dazzling light shows, and premium VIP tents, we guarantee a flawless event. From intimate functions to massive district festivals, our team works tirelessly to bring your dream event to reality.</p>
-            </div>
-            
-            <div style="width: 100%; padding: 40px 0; background-color: transparent; display: flex; flex-direction: column; align-items: center; justify-content: center; box-sizing: border-box;">
-                <div class="section-label" style="margin-bottom: 30px; color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; font-size: 14px; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; text-align: center; width: 100%; border-bottom: none;">
-                    <i class="fas fa-crown"></i> The Maa Nirmala Experience
-                </div>
+              <div style="width: 100%; padding: 60px 15px; background: linear-gradient(180deg, #050505 0%, #0a0a0c 100%); display: flex; flex-direction: column; align-items: center; justify-content: center; box-sizing: border-box; border-top: 1px solid rgba(212,175,55,0.2);">
 
-                <div style="text-align: center;">
-                    <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
-                        THE PINNACLE OF PREMIUM CELEBRATIONS
-                    </h3>
-                    <p style="font-size: 15px; line-height: 1.7; color: #cccccc; margin-bottom: 35px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
-                        Maa Nirmala DJ & Tent House sets the absolute standard for high-energy, luxurious celebrations across Banka. Under the visionary leadership of Mr. Lalu Kumar Tanti, we have transformed countless events from ordinary gatherings into extraordinary cinematic experiences. Situated in the historic heart of Beltikri, Kaddhar, Katoria, our dedicated team works tirelessly to bring your ultimate dream event to reality with unmatched precision.
-                    </p>
-
-                    <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 15px; font-size: 20px; font-weight: 700; letter-spacing: 1px;">
-                        THE SUPREMACY OF ACOUSTIC ENGINEERING
-                    </h3>
-                    <p style="font-size: 15px; line-height: 1.7; color: #cccccc; margin-bottom: 35px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
-                        The soul of any grand event is its acoustic heartbeat. At Maa Nirmala DJ, we engineer an auditory atmosphere that captivates the senses. We deploy state-of-the-art, heavy-duty subwoofers that push massive volumes of air, ensuring an earth-shattering bass response. Complementing this low-end power are our crystal-clear, high-frequency line-array top speakers.
-                    </p>
-
-                    <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 15px; font-size: 20px; font-weight: 700; letter-spacing: 1px;">
-                        DYNAMIC VISUAL VIBES & INTELLIGENT LIGHTING
-                    </h3>
-                    <p style="font-size: 15px; line-height: 1.7; color: #cccccc; margin-bottom: 35px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
-                        Sound alone cannot carry a premium event. We utilize intelligent, programmable DMX lighting systems to paint the venue in vibrant colors. Our synchronized laser light shows slice through the darkness, while powerful moving head beams track the tempo of the music, creating an immersive club environment right at your venue.
-                    </p>
-
-                    <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 15px; font-size: 20px; font-weight: 700; letter-spacing: 1px;">
-                        ROYAL TENT ARCHITECTURE
-                    </h3>
-                    <p style="font-size: 15px; line-height: 1.7; color: #cccccc; margin-bottom: 35px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
-                        Beyond the music, we construct magnificent temporary palaces. Our premium tent setups are feats of structural engineering, built using heavy-duty iron trusses and secure rigging systems. We construct massive waterproof pandals draped in miles of luxurious imported fabrics.
-                    </p>
-                </div>
-            </div>
-                      <div class="section-label" style="margin-top:40px;"><i class="fas fa-music"></i> THE MAA NIRMALA EXPERIENCE</div>
-            <div style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 20px; padding: 20px; text-align: center; box-shadow: 0 5px 20px rgba(0,0,0,0.2);">
-                <img src="https://i.postimg.cc/Y0jPr7Vy/20251205-103059-IMG-STYLE.jpg" style="width: 100%; height: 200px; object-fit: cover; border-radius: 12px; border: 2px solid var(--gold-primary); margin-bottom: 15px;" alt="Experience">
-                <h3 style="color: var(--gold-primary); font-family: 'Cinzel'; margin-bottom: 10px; font-size: 20px;">Unmatched Sound & Vibes</h3>
-                <p style="font-size: 14px; line-height: 1.6; color: #ddd;">Maa Nirmala DJ sets the standard for high-energy celebrations in Banka. With state-of-the-art audio, dazzling light shows, and premium VIP tents, we guarantee a flawless event. From intimate functions to massive district festivals, our team works tirelessly to bring your dream event to reality.</p>
-            </div>
-          <div style="width: 100%; padding: 40px 15px; background-color: transparent; display: flex; flex-direction: column; align-items: center; justify-content: center; box-sizing: border-box;">
-
-    <div class="section-label" style="margin-bottom: 30px; color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; font-size: 14px; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; text-align: center;">
-        <i class="fas fa-crown"></i> The Maa Nirmala Experience
+    <div class="section-label" style="margin-bottom: 40px; color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; font-size: 16px; font-weight: bold; letter-spacing: 3px; text-transform: uppercase; text-align: center; border-bottom: none; width: 100%;">
+        <i class="fas fa-crown"></i> The Maa Nirmala Experience <i class="fas fa-crown"></i>
     </div>
 
-    <div style="max-width: 800px; text-align: center;">
+    <div style="max-width: 850px; text-align: center; padding: 0 15px;">
 
         <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
-            THE PINNACLE OF PREMIUM CELEBRATIONS
+            1. THE PINNACLE OF PREMIUM CELEBRATIONS
         </h3>
-        
-        <p style="font-size: 15px; line-height: 1.7; color: #cccccc; margin-bottom: 35px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
-            Maa Nirmala DJ & Tent House sets the absolute standard for high-energy, luxurious celebrations across Banka. Under the visionary leadership of Mr. Lalu Kumar Tanti, we have transformed countless events from ordinary gatherings into extraordinary cinematic experiences. Situated in the historic heart of Beltikri, Kaddhar, Katoria, our dedicated team works tirelessly to bring your ultimate dream event to reality with unmatched precision. We believe that a celebration is not merely a date on a calendar, but a profound milestone in human life that deserves the utmost reverence, spectacular visual beauty, and flawless technical execution.
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            Maa Nirmala DJ & Tent House sets the absolute standard for high-energy, luxurious celebrations across Banka. Under the visionary leadership of Mr. Lalu Kumar Tanti, we transform countless events from ordinary gatherings into extraordinary cinematic experiences. Our dedicated team works tirelessly to bring your ultimate dream event to reality with unmatched precision.
         </p>
 
-        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 15px; font-size: 20px; font-weight: 700; letter-spacing: 1px;">
-            THE SUPREMACY OF ACOUSTIC ENGINEERING
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            2. THE SUPREMACY OF ACOUSTIC ENGINEERING
         </h3>
-
-        <p style="font-size: 15px; line-height: 1.7; color: #cccccc; margin-bottom: 35px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
-            The soul of any grand event is its acoustic heartbeat. At Maa Nirmala DJ, we do not simply play music; we engineer an auditory atmosphere that captivates the senses. We deploy state-of-the-art, heavy-duty subwoofers that push massive volumes of air, ensuring an earth-shattering bass response that you can feel resonating in your very soul. Complementing this low-end power are our crystal-clear, high-frequency line-array top speakers, strategically positioned to cast sound evenly across massive venues without a single hint of distortion. Whether it is a subtle background melody during a serene wedding ritual or a high-octane electronic drop at a midnight dance party, our audio technicians balance every frequency with surgical precision.
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            The soul of any grand event is its acoustic heartbeat. We do not simply play music; we engineer an auditory atmosphere that captivates the senses. We deploy state-of-the-art, heavy-duty subwoofers that push massive volumes of air, ensuring an earth-shattering bass response that you can feel resonating deep within your very soul.
         </p>
 
-        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 15px; font-size: 20px; font-weight: 700; letter-spacing: 1px;">
-            DYNAMIC VISUAL VIBES & INTELLIGENT LIGHTING
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            3. DYNAMIC VISUAL VIBES & INTELLIGENT LIGHTING
         </h3>
-
-        <p style="font-size: 15px; line-height: 1.7; color: #cccccc; margin-bottom: 35px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
-            Sound alone cannot carry a premium event; it must be paired with a breathtaking visual spectacle. We utilize intelligent, programmable DMX lighting systems to paint the venue in vibrant colors and dynamic movement. Our synchronized laser light shows slice through the darkness, while our powerful moving head beams track the tempo of the music, creating an immersive, concert-level club environment right at your venue. By introducing atmospheric effects such as heavy ground fog and spectacular cold spark machines during key moments—like the bride and groom's grand entrance—we elevate the emotional impact of the evening to truly cinematic heights.
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            Sound alone cannot carry a premium event; it must be paired with a breathtaking visual spectacle. We utilize intelligent, programmable DMX lighting systems to paint the venue in vibrant colors. Our synchronized laser light shows slice through the darkness, elevating the emotional impact of the evening to truly cinematic heights.
         </p>
 
-        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 15px; font-size: 20px; font-weight: 700; letter-spacing: 1px;">
-            ROYAL TENT ARCHITECTURE & STRUCTURAL INTEGRITY
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            4. ROYAL TENT ARCHITECTURE & STRUCTURAL INTEGRITY
         </h3>
-
-        <p style="font-size: 15px; line-height: 1.7; color: #cccccc; margin-bottom: 35px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
-            Beyond the music and lights, we construct magnificent, temporary palaces. Our premium tent setups are feats of structural engineering, built using heavy-duty iron trusses and highly secure rigging systems that guarantee absolute safety and stability, regardless of unpredictable weather conditions. We construct massive waterproof pandals draped in miles of luxurious, imported fabrics that cascade elegantly from towering ceilings. The interiors are designed with immaculate spatial awareness, featuring dedicated VIP seating zones, expansive dining areas, and plush, wall-to-wall carpeting that provides a royal walking experience for every guest in attendance.
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            Beyond the music, we construct magnificent temporary palaces. Our premium tent setups are feats of structural engineering, built using heavy-duty iron trusses and highly secure rigging systems. We guarantee absolute safety and stability, regardless of unpredictable weather conditions, creating massive waterproof pandals draped in miles of luxurious imported fabrics.
         </p>
 
-        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 15px; font-size: 20px; font-weight: 700; letter-spacing: 1px;">
-            BESPOKE FLORAL DECOR & STAGE CRAFTSMANSHIP
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            5. BESPOKE FLORAL DECOR & STAGE CRAFTSMANSHIP
         </h3>
-
-        <p style="font-size: 15px; line-height: 1.7; color: #cccccc; margin-bottom: 35px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
-            The stage is the undisputed focal point of your celebration, and our decoration team crafts it into a breathtaking visual masterpiece. We seamlessly blend traditional Indian wedding aesthetics with modern, contemporary design trends. Utilizing thousands of fresh, vibrant blooms, our decorators construct intricate floral archways, majestic entry gates (Dwar), and stunning photo booths. The main stage is furnished with customized luxury couches and thematic backdrops, ensuring that every photograph taken captures the elegance, grandeur, and prestige of your special day perfectly.
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            The stage is the undisputed focal point of your celebration. Our decoration team crafts it into a breathtaking visual masterpiece, seamlessly blending traditional Indian wedding aesthetics with modern contemporary design trends. Utilizing thousands of fresh, vibrant blooms, our decorators construct intricate floral archways that capture the elegance of your special day perfectly.
         </p>
 
-        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 15px; font-size: 20px; font-weight: 700; letter-spacing: 1px;">
-            UNYIELDING POWER BACKUP SYSTEMS
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            6. UNYIELDING POWER BACKUP SYSTEMS
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            A luxury event cannot afford a single millisecond of darkness. Recognizing the unpredictability of local power grids, we provide absolute electrical reliability. We deploy massive, heavy-duty silent generator sets capable of sustaining the enormous load required by our line-array speakers, ensuring that the magic continues flawlessly without any interruption.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            7. LOGISTICAL MIGHT & TRANSPORT EFFICIENCY
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            The invisible backbone of our grand setups is an incredibly robust logistical network. Supported powerfully by Laxmikant Tractor Transport, we possess the sheer mechanical might to deliver colossal payloads of heavy subwoofers, iron pillars, and delicate lighting fixtures to any venue, no matter how remote the location in Banka district.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            8. MASTERING EVERY TYPE OF CELEBRATION
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            Our expertise is not limited to a single event type. We are masters of versatility, adapting our immense resources to perfectly suit your gathering. From grand weddings requiring royal elegance to massive district-level religious festivals, we seamlessly shift our focus to delivering the ultimate, customized experience for your specific audience.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            9. STRICT SAFETY PROTOCOLS & MANAGEMENT
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            True luxury includes the luxury of peace of mind. We take the safety of your guests with the utmost seriousness. Every electrical cable is heavily insulated and safely routed. Every heavy iron pillar is firmly anchored to the ground to withstand sudden high winds, constantly monitored by our vigilant on-site management team.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            10. THE ART OF THE GRAND BARAAT TROLLEY
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            The Baraat is the most energetic part of an Indian wedding, and we have revolutionized it. Our custom DJ Trolleys are mobile powerhouses of sound and light. Built on heavy-duty chassis, these rolling setups feature towering speaker stacks that transform a simple procession into a moving, high-octane street concert.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            11. VIP CATERING ENCLOSURES & DINING
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            A premium celebration demands a premium dining experience. We construct dedicated VIP catering enclosures that are incredibly beautiful. These expansive dining pandals feature elegant buffet table arrangements adorned with premium frills. We provide high-quality banquet chairs, round dining tables, and dedicated VIP sofa lounges illuminated with soft, warm wash lights.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            12. CLIMATE CONTROL FOR YEAR-ROUND EVENTS
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            Bihar's weather can be extreme, but your event’s comfort should never be compromised. Maa Nirmala offers comprehensive climate control solutions. For summer weddings, we deploy high-speed industrial pedestal fans. During winter, our dense, layered tent fabrics provide vital insulation against the cold wind, ensuring a comfortable sanctuary regardless of the season.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            13. CUSTOMIZATION: YOUR VISION, OUR CANVAS
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            We do not believe in "one size fits all." Every client has a unique dream, and we treat your vision as our blank canvas. Whether you desire a completely traditional aesthetic with marigold drops or a modern, minimalist look with crystal chandeliers, our design team works closely with you to customize everything.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            14. THE IMPORTANCE OF THE ENTRANCE DWAR
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            First impressions are permanent. The Entrance Gate (Dwar) is the first thing your guests will see. We construct towering, magnificent archways decorated with premium artificial flowers, cascading fairy lights, and grand welcome signages. Walking through our entrance is designed to make every single guest feel like royalty stepping into magic.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            15. CORPORATE EVENTS & STAGE SHOWS
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            Beyond weddings, we are the trusted partners for large-scale corporate events and district stage shows. These events require a completely different approach—focusing on highly professional stage setups, ultra-clear microphone vocal reproduction, and massive seating capacities. We provide robust podiums and clean branding backdrops for absolute clarity and authority.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            16. THE MAGIC OF HALDI & MEHENDI
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            Pre-wedding rituals like Haldi and Mehendi require a softer, more vibrant, and intimate touch. We provide specialized, colorful setups focusing on bright yellows, greens, and pinks. We install comfortable, low-seating arrangements with traditional cushions, beautiful floral swings for the bride, and compact, high-clarity sound systems designed for joyous conversations.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            17. ADVANCED SOUND MIXING & ADJUSTMENTS
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            Perfect audio is dynamic. Our professional sound engineers actively monitor the event's acoustic levels in real-time. Whether transitioning from a soft instrumental background during dinner to high-energy dance tracks, our digital mixers ensure EQ balance is flawless, preventing microphone feedback and delivering a smooth, ear-pleasing auditory journey from start to finish.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            18. PREMIUM SEATING AND FURNITURE
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            Comfort defines luxury. We supply an extensive inventory of pristine, high-quality furniture. Instead of standard plastic seating, we offer cushioned banquet chairs wrapped in elegant spandex covers, tied with colorful satin bows. For the main family and dignitaries, we provide plush, ornately carved velvet sofas that exude absolute royalty and prestige.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            19. DAZZLING COLD SPARK SPECIAL EFFECTS
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            To capture the perfect photograph, you need spectacular effects. We utilize advanced, indoor-safe cold spark machines that shoot brilliant fountains of golden light during key moments like the Jaimala or the couple's first dance. These firework-style effects are completely smokeless and cool to the touch, providing maximum visual impact with zero hazard.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            20. PRISTINE RED CARPET PATHWAYS
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            The journey into your venue should feel like a Hollywood premiere. We roll out immaculate, thick red carpets spanning from the entrance gate directly to the main stage. Flanked by illuminated LED pillars and fresh flower pots, this pathway ensures that the bride, groom, and every honored guest feels deeply celebrated.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            21. HIGH-DEFINITION LED VIDEO WALLS
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            For larger venues and massive crowds, visual reach is essential. We offer seamless, high-definition LED video wall installations as dynamic stage backdrops. These massive screens can display live camera feeds of the ceremony, custom romantic graphics, or pre-wedding cinematic shoots, ensuring that even guests seated at the very back miss nothing.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            22. TRADITIONAL MANDAP SANCTITY
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            The Mandap is the spiritual core of the wedding. Our craftsmen dedicate special attention to this sacred space, utilizing pure banana leaves, fresh marigolds, and elegant brass vessels to create a traditionally accurate yet visually stunning enclosure. We ensure it is perfectly illuminated for the priests and the wedding photographers alike.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            23. ELEGANT DRAPERY & FABRIC ARTISTRY
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            Bare metal structures are transformed into art through our master drapery techniques. We use premium silks, chiffons, and organza fabrics, pleated and gathered into stunning geometric and floral ceiling designs. The interplay between these rich fabrics and our upward-facing wash lights creates a canopy of unparalleled elegance above your guests' heads.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            24. DEDICATED VIP LOUNGE CREATION
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            For your most esteemed guests, elders, and dignitaries, we construct exclusive VIP lounge zones within the main pandal. These slightly elevated platforms are cordoned off with velvet ropes, featuring our finest plush sofas, dedicated service tables, and personalized cooling fans, ensuring privacy, comfort, and the utmost respect for your special attendees.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            25. UNINTERRUPTED EVENT COORDINATION
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            The difference between a good event and a perfect one is coordination. Our ground team, led by experienced managers, operates flawlessly via radio communication. From dimming the lights right before a performance to cuing the heavy bass drop precisely as the bride enters, our synchronization is impeccable, invisible, and highly effective.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            26. SPECIALIZED DJ ARTISTS AND EMCEES
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            A great sound system requires a great pilot. We provide highly experienced DJs who possess an intuitive ability to read the crowd. They seamlessly mix traditional Bhojpuri and Maithili folk beats with modern Bollywood and high-energy electronic dance music, ensuring that the dance floor remains packed, energetic, and joyous all night.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            27. THEMATIC BIRTHDAY BASH PRODUCTIONS
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            Birthdays require vivid imagination. We design fully thematic setups for children and adults alike. From magical princess castles with pastel balloon arches to high-tech neon club themes with UV lighting and heavy bass setups, our team handles all the decorative and auditory elements to make the birthday celebrant the absolute star.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            28. CRYSTAL CHANDELIER INSTALLATIONS
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            Nothing screams luxury quite like cascading crystals. For our premium VIP tent setups, we safely rig massive, glittering crystal chandeliers from the central iron trusses. These stunning centerpieces catch and refract the ambient light, casting a warm, majestic, and highly photogenic glow over the central seating and dining areas of your event.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            29. WATERPROOFING FOR MONSOON WEDDINGS
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            Monsoon rains will never wash away your joy. We construct our pandals using highly durable, thick, and strictly waterproof tarpaulin layers beneath the decorative fabric. Our structural sloping ensures rapid water runoff, while raised wooden platform flooring keeps the interior carpets completely dry, allowing your celebration to continue fiercely despite heavy downpours.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            30. GRAND STAGE BACKDROPS AND PROPS
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            We design colossal, three-dimensional stage backdrops that serve as the perfect canvas for your event photographs. Utilizing carved thermocol, golden fiber panels, and backlit acrylics, we create highly detailed architectural replicas, floral walls, or modern geometric designs that give the main stage depth, grandeur, and an incredibly expensive, premium aesthetic.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            31. ADVANCED 3D LASER SPECTACLES
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            Our lighting arsenal includes the latest in multi-color 3D laser technology. These systems project intricate liquid-sky effects, animated patterns, and sweeping light beams directly over the dancing crowd. Synchronized via digital controllers to the exact beat of the heavy bass, these lasers instantly convert any local venue into an international electronic concert.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            32. CULTURAL AUTHENTICITY IN DESIGN
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            While we utilize modern technology, we deeply respect Bihar's rich cultural heritage. We seamlessly weave authentic regional elements into our premium designs, using traditional brass lamps, auspicious kalash placements, and culturally significant color combinations to ensure that the sanctity and soul of traditional Indian ceremonies are preserved amidst the grand luxury.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            33. SEAMLESS MULTI-DAY EVENT MANAGEMENT
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            Indian weddings are marathons, not sprints. We expertly handle continuous, multi-day bookings. Our team works overnight to rapidly transition the venue's decor—changing the floral arrangements, lighting colors, and seating layouts between the Haldi, the Sangeet, and the main wedding day, ensuring each distinct event feels entirely fresh and uniquely magical.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            34. PREMIUM TABLE CENTERPIECES
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            True luxury is found in the smallest details. We elevate the dining experience by outfitting every round guest table with immaculate, customized centerpieces. Using tall crystal vases, fresh exotic flower arrangements, and soft LED candle lights, we ensure that every guest has a beautiful, highly aesthetic focal point while enjoying their meal.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            35. HIGH-SPEED FOG AND SMOKE MACHINES
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            To maximize the visibility of our laser beams and add a sense of mystery to the dance floor, we deploy high-speed, non-toxic fog machines. Additionally, our specialized dry-ice low-foggers create a thick, rolling cloud that hugs the ground, allowing the bride and groom to literally look like they are dancing on clouds.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            36. IMMERSIVE SURROUND SOUND EXPERIENCE
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            For sprawling outdoor venues, a single speaker stack is insufficient. We strategically distribute wireless delay-tower speakers throughout the entire perimeter of the event. This highly technical, surround-sound approach ensures that guests at the very back of the pandal hear the speeches and music just as clearly as those sitting in the front row.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            37. DEDICATED DANCE FLOOR CONSTRUCTION
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            We don't just ask your guests to dance on the grass. We construct elevated, highly stable, and beautifully finished wooden or acrylic dance floors right in the center of the action. Surrounded by our heavy bass subwoofers and intelligent lighting rigs, this dedicated zone becomes the undeniable, high-energy epicenter of the entire night.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            38. PRE-WEDDING PHOTOSHOOT SETUPS
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            To support your photography team, we design stunning, standalone decorative corners specifically for pre-wedding and guest photoshoots. Featuring vintage bicycles, rustic wooden frames, floral rings, and warm fairy lights, these highly curated selfie-points ensure that your guests leave the event with incredibly beautiful, Instagram-worthy memories of your grand celebration.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            39. ELEGANT WASH LIGHTING FOR AMBIENCE
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            Harsh, white floodlights ruin the aesthetic of a premium event. We rely entirely on sophisticated LED wash lighting. By projecting warm ambers, soft pinks, or deep purples upwards against the draped fabric of the tent, we create a glowing, ambient atmosphere that feels incredibly luxurious, welcoming, and easy on the eyes.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            40. EFFICIENT CROWD MANAGEMENT BARRIERS
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            Large district festivals and high-profile events require strict control. We provide heavy-duty steel barricades and elegant velvet rope stanchions to efficiently manage crowd flow. This ensures that food queues remain orderly, VIP sections remain strictly exclusive, and the main performance stage is kept completely secure from overwhelming public rushes.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            41. SPECIALIZED RELIGIOUS FESTIVAL PANDALS
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            For Durga Puja, Saraswati Puja, and other massive religious gatherings, we construct incredibly towering, iconic pandal structures. These monumental setups are built to withstand the foot traffic of thousands of devotees, featuring brilliant exterior light installations, highly secure idol platforms, and wide, easily accessible entry and exit corridors for supreme public safety.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            42. MODERN MINIMALIST EVENT DESIGNS
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            For clients preferring a contemporary aesthetic over heavy traditional decor, we offer sleek, minimalist designs. We utilize clean white fabrics, sharp geometric metal arches, subtle green foliage, and warm Edison bulb lighting. This modern approach results in a highly sophisticated, upscale environment that feels fresh, airy, and incredibly elegant.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            43. MAJESTIC JAIMALA STAGE EXECUTIONS
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            The Jaimala is the absolute climax of the wedding evening. We specialize in engineering revolving, hydraulic, or heavily customized elevated stages specifically for this moment. Surrounded by cold-spark pyro blasts, heavy fog, and sweeping spotlights, we ensure the garland exchange looks like a scene straight out of a blockbuster Bollywood film.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            44. HIGH-END MICROPHONE & SPEECH SYSTEMS
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            For emotional family speeches, corporate announcements, or religious chants, audio clarity is paramount. We provide premium, interference-free wireless microphone systems equipped with digital feedback destroyers. This guarantees that every spoken word is transmitted with crystal-clear articulation, ensuring the audience remains fully captivated by the speaker without any distracting technological hiccups.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            45. REAL-TIME CLIENT SUPPORT
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            From the moment you book us until the final piece of equipment is packed away, our management team remains entirely at your disposal. Mr. Lalu Kumar and his associates are constantly accessible, providing real-time updates, rapidly accommodating sudden changes, and ensuring that your stress levels remain at absolute zero throughout the process.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            46. LUXURY CROCKERY AND CUTLERY DISPLAY
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            When providing comprehensive VIP dining setups, we pay attention to what goes on the table. We assist in outfitting your buffet and dining areas with pristine, polished chafing dishes, high-quality heavy plates, and shining cutlery displays. This elevates the food service from standard catering to a truly luxurious, five-star banquet experience.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            47. EXPANSIVE SPACE PLANNING AND LAYOUTS
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            Cramped spaces ruin great events. Before a single iron pole is planted, our team maps out the venue to optimize the flow of human traffic. We strategically position the heavy DJ bass setups away from the elderly seating, ensure wide pathways between buffet stalls, and maximize the open dancing area for ultimate comfort.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            48. THEMATIC LIGHTING COLOR PALETTES
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            We use light as a psychological tool. For romantic receptions, we bathe the pandal in soft magentas and warm golds. For high-energy DJ sessions, we switch to aggressive strobes of neon blue, green, and red. This mastery over color palettes allows us to instantly alter the mood and energy of the entire celebration.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            49. FLAWLESS EXECUTION AND PUNCTUALITY
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            In the event industry, time is the ultimate currency. We pride ourselves on absolute punctuality. Our heavy transport tractors and setup crews arrive hours, sometimes days, in advance. We guarantee that when your first guest walks through the grand entrance, every single light, speaker, and floral arrangement is already functioning with absolute perfection.
+        </p>
+
+        <h3 style="color: var(--gold-primary, #D4AF37); font-family: 'Cinzel', serif; margin-bottom: 20px; font-size: 24px; font-weight: 800; line-height: 1.4; letter-spacing: 1px;">
+            50. THE LEGACY OF MR. LALU KUMAR TANTI
+        </h3>
+        <p style="font-size: 15px; line-height: 1.8; color: #cccccc; margin-bottom: 45px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
+            The incredible legacy of Maa Nirmala DJ is built upon the unwavering dedication and pure passion of Mr. Lalu Kumar Tanti. His visionary approach to event management has established us as the undisputed industry leader in Banka, guaranteeing that every single celebration we touch becomes a legendary, unforgettable historical milestone.
+        </p>
+
+    </div>
+</div>
+UNYIELDING POWER BACKUP SYSTEMS
         </h3>
 
         <p style="font-size: 15px; line-height: 1.7; color: #cccccc; margin-bottom: 35px; font-family: 'Outfit', sans-serif; font-weight: 400; text-wrap: balance;">
